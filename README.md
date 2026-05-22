@@ -1,6 +1,8 @@
 # Solemne-2---Pensamiento-Computacional
 ## Nombre del proyecto: Dynamic Modul
 
+!(proyecto)[p5.js/proyecto.jpeg] 
+[link](https://editor.p5js.org/Valentinaelizondo/sketches/422oiG4fp) 
 ## Autor/a: Valentina Elizondo Pizarro
 **Qué es el proyecto** 
 
