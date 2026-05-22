@@ -1,9 +1,15 @@
 # Solemne-2---Pensamiento-Computacional
 ## Nombre del proyecto: Dynamic Modul
 
-!(proyecto)[p5.js/proyecto.jpeg] 
+![proyecto](p5.js/proyecto.jpeg) 
+
 [link](https://editor.p5js.org/Valentinaelizondo/sketches/422oiG4fp) 
+
 ## Autor/a: Valentina Elizondo Pizarro
+
+*Descripción objetiva*
+
+
 **Qué es el proyecto** 
 
 El proyecto consiste en un diseño interactivo que responde al movimiento del mouse, proyectando líneas a partir de su posición. Durante la interacción, estos elementos cambian de color, forma y tamaño, manteniendo un efecto de vibración constante que lo hace mucho más dinámico a la vista. 
@@ -38,6 +44,9 @@ En la parte inferior izquierda se visualiza un texto fijo con la palabra “BAUH
 
 **Texto**: La palabra "BAUHAUS" pintada en blanco, en tipografía bold y tamaño 90px en la esquina inferior izquierda.
 
+*Descripción conceptual*
+
+
 **Idea central del proyecto**
 
 La propuesta se inspira en la estética de la escuela de diseño Bauhaus, retomando su paleta de colores primarios y el uso de figuras geométricas clásicas. El proyecto está diseñado para que el usuario interactúe directamente con la pieza. A diferencia de las composiciones estáticas tradicionales de la Bauhaus, esta propuesta incorpora comportamiento dinámico e interacción en tiempo real, incorpora transformaciones constantes en cada uno de sus módulos. Estos elementos siguen el movimiento del cursor para potenciar la interactividad, logrando que la obra se perciba visualmente viva y dinámica.
@@ -63,6 +72,9 @@ Referente
 **Principio de diseño explorado**
 
 Composición modular inspirada en la Bauhaus, basada en el uso de geometría simple, colores primarios y repetición en grilla. El proyecto explora la interactividad mediante variaciones de tamaño, color y forma controladas por la posición del mouse, generando una composición dinámica y cambiante. Además, se incorporan líneas interactivas y vibraciones para aportar movimiento y mayor dinamismo visual a la composición.
+
+*Input / Output y sistema*
+
 
 **Reglas que gobiernan el sistema (inputs, procesos, outputs)**
 
