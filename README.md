@@ -149,6 +149,9 @@ Simultáneamente, líneas blancas conectan cada módulo con la posición del cur
 
 ![diagrama](Imagen/diagrama.png) 
 
+**Proceso ejecución de idea** 
+
+
 
 
 
