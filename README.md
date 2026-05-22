@@ -151,6 +151,15 @@ Simultáneamente, líneas blancas conectan cada módulo con la posición del cur
 
 **Proceso ejecución de idea** 
 
+Durante el proceso de ejecución de la idea, primero anoté los códigos y funciones que iba a utilizar, sin definir todos los valores desde el inicio. Algunos sí los pensé según el tamaño del lienzo para ordenar mejor la composición.
+
+La organización del código la desarrollé viendo ejemplos de clases, referencias de mi profesora y apoyo de inteligencia artificial para entender cómo estructurar el sistema interactivo. El proceso fue principalmente de prueba y error, modificando tamaños, posiciones y comportamientos hasta lograr ejecutar la idea principal del proyecto.
+
+![proceso](proceso/proceso1.jpeg) 
+![proceso](proceso/proceso4.jpeg) 
+![proceso](proceso/proceso6.jpeg) 
+
+
 
 
 
