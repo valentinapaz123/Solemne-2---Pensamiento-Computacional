@@ -1,5 +1,6 @@
 # Solemne-2---Pensamiento-Computacional
 ## Nombre del proyecto: Dynamic Modul
+
 ## Autor/a: Valentina Elizondo Pizarro
 **Qué es el proyecto** 
 
@@ -132,7 +133,7 @@ Simultáneamente, líneas blancas conectan cada módulo con la posición del cur
 
 **Diagrama de flujo**
 
-![diagrama](Imagen/
+![diagrama](Imagen/diagrama.png) 
 
 
 
